@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **html , css , js ,**
 
-- 📫 How to reach me **harivigneshk.dev@gmail.com**
+- 📫 reach me @ **harivigneshk.dev@gmail.com**
 
 - ⚡ Fun fact **I know how to cook.**
 
