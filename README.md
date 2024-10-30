@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harivignesh K</h1>
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FFFFFF&center=true&width=600&lines=A+Passionate+Software+Developer+from+India+...." alt="Typing SVG" style="min-width: 600px; width: 600px; height: auto;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FFFFFF&center=true&width=600&lines=A+Passionate+Software+Developer+from+India...." alt="Typing SVG" style="min-width: 600px; width: 600px; height: auto;" />
 </div>
 
 
