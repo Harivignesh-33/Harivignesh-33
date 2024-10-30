@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Harivignesh K</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FFFFFF&center=true&width=600&lines=A+Passionate+Software+Developer+from+India+...." alt="Typing SVG" style="min-width: 600px; width: 600px; height: auto;" />
+  </a>
+</div>
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harivignesh-33&label=Profile%20views&color=0e75b6&style=flat" alt="harivignesh-33" /> </p>
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
