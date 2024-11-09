@@ -94,10 +94,8 @@
 
 ###
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=Harivignesh-33&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=harivignesh-33&theme=javascript-dark&border_radius=35&card_width=595)](https://git.io/streak-stats)
 
 ###
 
