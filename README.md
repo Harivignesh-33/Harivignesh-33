@@ -95,7 +95,7 @@
 ###
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=harivignesh-33&theme=javascript-dark&border_radius=35&card_width=595)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=harivignesh-33&theme=javascript-dark&border_radius=35&card_width=560)](https://git.io/streak-stats)
 
 ###
 
