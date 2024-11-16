@@ -9,7 +9,7 @@
 
 - 🌱 I am currently advancing my skills in **Java**
 
-- 👨‍💻 All of my projects are available at my  [Portfolio](harivignesh-k.web.app)
+- 👨‍💻 All of my projects are available at my  [Portfolio](https://harivignesh-k.web.app)
 
 - 💬 Ask me about **Html ,  css &amp; Java** 
 
