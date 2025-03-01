@@ -7,11 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harivignesh-33&label=Profile%20views&color=0e75b6&style=flat" alt="harivignesh-33" /> </p>
 <img align="right" alt="Coding" src="https://camo.githubusercontent.com/38d5854392d69b79a22dfe7a0a39fd84519618d2e5e035d49da7f193d1669365/68747470733a2f2f632e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966" data-canonical-src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-- 🌱 I am currently advancing my skills in **Java**
+- 🌱 I am currently advancing my skills in **Python**
 
 - 👨‍💻 All of my projects are available at my  [Portfolio](https://harivignesh-k.web.app)
 
-- 💬 Ask me about **Html ,  css &amp; Java** 
+- 💬 Ask me about **Html ,  css &amp; Python** 
 
 - 📫 reach me @  [Mail](mailto:harivigneshk.dev@gmail.com)
 
@@ -34,6 +34,8 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -45,8 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
