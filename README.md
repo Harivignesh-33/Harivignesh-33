@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at my  [Portfolio](https://harivignesh-k.web.app)
 
-- 💬 Ask me about **Html ,  css &amp; Python** 
+- 💬 Ask me about **Html ,  css &amp; Java** 
 
 - 📫 reach me @  [Mail](mailto:harivigneshk.dev@gmail.com)
 
